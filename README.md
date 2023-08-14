@@ -7,3 +7,4 @@ python.exe -m pip -upgrade
 pip install pyautogui
 pip install keyboard
 pip install threading
+pip install openCV-python
